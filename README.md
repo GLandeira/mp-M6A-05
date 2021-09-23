@@ -59,3 +59,35 @@ En Toggl Track cada miembro del Scrum Team debe activar el contador sobre el pro
 En Trello tenemos un Kanban board:
 
 Donde iremos monitoreando cada iteración.
+
+## Iteracion 1 
+
+### Sprint planning
+
+##### Valor del Sprint
+Este primer sprint habilita a las demás iteraciones mediante la planificación del proyecto. En este primer sprint, buscaremos determinar el Product Backlog del producto mediante el listado de posibles funcionalidades logrado por la identificación de stakeholders y el estudio de competidores.
+
+##### Que hay que hacer:
+<ul>
+    <li>Identificación de interesados</li>
+    <li>Lista de funcionalidades por interesado </li>
+    <li>Estudio de competidores.</li>
+    <li>Historias de usuario (BDD)</li>
+    <li>Criterios de aceptación</li>
+    <li>Product backlog</li>
+</ul>
+
+##### Cómo lo haremos:
+###### 1er semana
+| Tareas      | Duracion(hs) | Esfuerzo(hs) |
+| ----------- | --- | ---|
+| Identificación de interesados      | 2       | 2|
+| Lista de funcionalidades por interesado    | 2        | 6 |
+| Estudio de competidores.    | 2        | 4 |
+
+###### 2da semana
+| Tares      | Duracion(hs) | Esfuerzo(hs) |
+| ----------- | --- | ---|
+| Historias de usuario (BDD)      | 3       | 9 |
+| Criterios de aceptación.   | 1        | 3 |
+| Product backlog  | 1        | 3 |
