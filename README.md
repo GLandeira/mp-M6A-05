@@ -91,3 +91,9 @@ Este primer sprint habilita a las demás iteraciones mediante la planificación 
 | Historias de usuario (BDD)      | 3       | 9 |
 | Criterios de aceptación.   | 1        | 3 |
 | Product backlog  | 1        | 3 |
+
+##### Sprint Goal
+Una identificación clara del problema acompañado de un product backlog que define las funcionalidades más importantes del sistema de manera ordenada
+
+##### Definition of done
+Tener al menos dos User Stories por funcionalidad (si se presta esta), y lograr ordenarlas por nivel de prioridad. 
