@@ -89,8 +89,8 @@ Este primer sprint habilita a las demás iteraciones mediante la planificación 
 | Tares      | Duracion(hs) | Esfuerzo(hs) |
 | ----------- | --- | ---|
 | Historias de usuario (BDD)      | 3       | 9 |
-| Criterios de aceptación.   | 1        | 3 |
-| Product backlog  | 1        | 3 |
+| Product backlog   | 1        | 3 |
+| Creación de taskboard de Product backlog  | 1        | 3 |
 
 ##### Sprint Goal
 Una identificación clara del problema acompañado de un product backlog que define las funcionalidades más importantes del sistema de manera ordenada
