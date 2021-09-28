@@ -95,5 +95,33 @@ Este primer sprint habilita a las demás iteraciones mediante la planificación 
 ##### Sprint Goal
 Una identificación clara del problema acompañado de un product backlog que define las funcionalidades más importantes del sistema de manera ordenada
 
-##### Definition of done
-Tener al menos dos User Stories por funcionalidad (si se presta esta), y lograr ordenarlas por nivel de prioridad. 
+### Anexo
+#### Bitacora 
+
+##### Día 2
+###### Daily scrum 
+
+-Iñaki Etchegaray
+¿Qué hiciste ayer?
+Prepare los aspectos generales del proyecto como las herramientas a utilizar y el sprint planning.
+¿Qué vas a hacer hoy?
+La identificación de stakeholders del proyecto. A su vez, también arreglar el sprint planning sacandole el definition of done que no es requisito.
+¿Qué dificultades tienes?
+Tener completamente en claro que stakeholders pueden haber del proyecto. Entender completamente mi rol como Product Owner.
+
+-Gaston Landeira
+¿Qué hiciste ayer?
+Realice el estudio de competidores de dos aplicaciones. COVID-19MX y CoronaMadrid.
+¿Qué vas a hacer hoy?
+Realizaré el taskboard y continuaré con el estudio de competidores. Además para honrar mi posición de scrum master, documentare el daily scrum de hoy.
+¿Qué dificultades tienes?
+Distinguir la diferencia entre sprint backlog y product backlog.
+
+-Matías González
+¿Qué hiciste ayer?
+Ayudar al Scrum master en el desarrollo del scrum planning.
+¿Qué vas a hacer hoy?
+Estudio de competidores, particularmente el caso de la app CoronavirusUy
+¿Qué dificultades tienes?
+Conseguir distintas fuentes al respecto de la app CoronavirusUy y sus funcionalidades
+
