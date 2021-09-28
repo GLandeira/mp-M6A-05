@@ -86,7 +86,7 @@ Este primer sprint habilita a las demás iteraciones mediante la planificación 
 | Estudio de competidores.    | 2        | 4 |
 
 ###### 2da semana
-| Tares      | Duracion(hs) | Esfuerzo(hs) |
+| Tareas      | Duracion(hs) | Esfuerzo(hs) |
 | ----------- | --- | ---|
 | Historias de usuario (BDD)      | 3       | 9 |
 | Product backlog   | 1        | 3 |
@@ -94,6 +94,56 @@ Este primer sprint habilita a las demás iteraciones mediante la planificación 
 
 ##### Sprint Goal
 Una identificación clara del problema acompañado de un product backlog que define las funcionalidades más importantes del sistema de manera ordenada
+
+
+#### Identificación de Stakeholders:
+
+La naturaleza de la aplicación nos permite identificar los siguientes stakeholders:
+
+<ul>
+    <li>Adolescentes y Adultos Jóvenes entre 13 - 35 años.</li>
+</ul>
+
+Son la gente activa de la población más propensa a las actividades sociales. Su interés se encuentra en balancear entre poder realizar actividades sociales y asegurar la seguridad de él mismo y sus allegados. Son gente que están acostumbrados a manejar la tecnología y las aplicaciones móviles. Alta cantidad de gente.
+
+<ul>
+    <li>Adultos entre 35 - 60 años</li>
+</ul>
+
+Son gente activa que es un poco menos propensa a las actividades sociales fuera de las familiares. Son la población que hay más probabilidades de que estén instauradas con una familia en el Uruguay. Su interés se encuentra en asegurarse que su núcleo familiar esté protegido e informado de la situación de la pandemia. El manejo de la tecnología sigue siendo bueno, pero varía fuertemente por cuartil del grupo. Alta cantidad de gente.
+
+<ul>
+    <li>Adultos mayores de 60 años</li>
+</ul>
+
+Son gente no muy activa, pero que son población de riesgo. Su interés se encuentra en estar informados sobre la situación sanitaria y minimizar lo más posible el riesgo de contagio (ya que son población de riesgo). Quieren poder ver a sus familias con la conciencia limpia de que tanto ellos como su núcleo familiar están a salvo de la enfermedad. Suelen tener un mal manejo de la tecnología y no estar muy acostumbrados a las aplicaciones móviles. Como Uruguay es un país que se reconoce por tener una población mayor, hay una alta cantidad de este stakeholder en comparación con otros países.
+
+Los tres grupos de stakeholders anteriores presentan una gran parte de la población como muestra la siguiente información:
+![Informacion del censo 2011.](imagenes/Informacion-Censo-2011.png "Censo Uruguayo 2011")
+
+(Información del censo Uruguayo del 2011, source: [Instituto Nacional de Estadística](https://www.ine.gub.uy/documents/10181/35289/analisispais.pdf))
+
+Como muestra el censo, aproximadamente el 80% de la población uruguaya comprende a nuestros stakeholders más importantes. Es decir, idealmente cerca de al menos 2.700.000 personas utilizarían la aplicación extensivamente.
+
+Estos tres stakeholders también son fuertes candidatos a ser la fuente de información sobre los casos de contagio, ya que la población es tan numerosa, se requiere de un esfuerzo comunitario para poder tener toda la información posible sobre casos de contagio. Además, los usuarios estarían interesados a compartir su información siempre y cuando se respete la privacidad de la misma. Es de su interés poder acceder a su carnet de vacunación, un documento validado por el gobierno que afirma que la persona está efectivamente vacunada.
+
+<ul>
+    <li>Gobierno Uruguayo</li>
+</ul>
+
+La aplicación es de un alto interés para el gobierno uruguayo ya que asiste con su interés principal de mantener sanitariamente al país con la acción de informar al pueblo uruguayo. Sería un agente importante en la recolección y aprobación de la información requerida para que funcione la aplicación.
+
+<ul>
+    <li>Sociedades médicas</li>
+</ul>
+
+Son todos los prestadores de salud. Estos intentan asegurar el bienestar de sus pacientes frente al peligro provocado por la contracción del virus COVID-19. Estas sociedades presentan mucha inquietud ante los incrementos de casos exponenciales y desean minimizar la curva de contagio para no sobresaturar sus camas de CTI y poder atender a todos sus afiliados. Al ser aquellos que se encuentran en el frente combatiendo la enfermedad, son los candidatos principales a otorgar la primera información sobre los casos activos de COVID-19.
+
+<ul>
+    <li>Laboratorios de test de COVID-19</li>
+</ul>
+
+Tanto públicos como privados tienen el objetivo de minimizar el tiempo de espera ante un resultado manteniendo una alta tasa de eficacia. Son responsables de informar la cantidad de casos positivos que se dieron por día.
 
 ### Anexo
 #### Bitacora 
