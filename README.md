@@ -145,6 +145,74 @@ Son todos los prestadores de salud. Estos intentan asegurar el bienestar de sus 
 
 Tanto públicos como privados tienen el objetivo de minimizar el tiempo de espera ante un resultado manteniendo una alta tasa de eficacia. Son responsables de informar la cantidad de casos positivos que se dieron por día.
 
+#### Estudio de competidores:
+<ul>
+    <li>COVID-19MX</li>
+</ul>
+
+Comentarios:
+- Brinda una pequeña serie de preguntas para saber si el usuario tiene posibilidades de tener covid
+“Autodiagnóstico: En caso de sospecha de que tu o algún familiar sufrieron el contagio, responde al cuestionario y tendrás las recomendaciones para actuar y de ser necesario acudir para atención médica.”
+- Acceso directo al teléfono de atención epidemiológica sanitaria.
+- Permite la entrada a la app de forma anónima pero se restringen funciones. Estas funciones son las de registrar datos. Se restringen para no permitir el descontrol estadístico.
+- Identifica los Centros de Atención más cercanos a tu ubicación, puedes consultar por Estados o mediante un mapa que te muestra el domicilio y ruta para llegar.
+- Ofrece la información más importante para entender qué es, cómo se transmite y los grupos más vulnerables en torno al COVID. Además da consejos.
+- Noticias: Acceso a la información oficial incluyendo conferencias de prensa y comunicados de la Secretaría de Salud.
+- Desescalada: información sobre la fase en la que se encuentran los estados. Permite guardar favoritos y te avisan si hay cambio de fase.
+- Permite el ingreso de más de una persona por teléfono.
+
+Contras: 
+- Es un bombardeo de información que puede no resultar muy clara al usuario.
+- Los formularios requieren demasiados datos para completar
+
+Se encuentra disponible en la [app store](https://play.google.com/store/apps/details?id=mx.gob.www) para android 6.0 y versiones posteriores, Requiere iOS 13.5 o posterior.
+
+
+<ul>
+    <li>CoronaMadrid</li>
+</ul>
+
+Comentarios
+- Cuenta con una guía para uso primerizo.
+- Para acceder a la app se debe ingresar usuario, si no no permite acceso a las demás funciones.
+- Posee un cuestionario para la autoevaluación de los síntomas y unas recomendaciones personalizadas según la respuesta del usuario.
+- En caso de estado grave las autoridades serán conocedoras de la situación y podrán comunicarse directamente con el afectado.
+-Permite el ingreso de más de una persona por teléfono.
+
+Contras
+- No ofrece ninguna función diferente más que las mencionadas.
+
+
+Se encuentra disponible en la [app store](https://play.google.com/store/apps/details?id=org.madrid.CoronaMadrid) para android 5.1 y versiones posteriores, Requiere  iOS 11.0 o posterior.
+
+
+<ul>
+    <li>CoronavirusUy</li>
+</ul>
+
+¿Qué permite la app?
+
+- Visualización de información sobre el estado de la pandemia en Uruguay, incluye:
+    - Datos numéricos sobre cantidad de casos.
+    - Mapa con código de colores con índice Harvard por departamento.
+    - Evolución de casos activos y fallecidos con respecto a la vacunación.
+    - Pie chart con ocupación en cuidados intensivos (CTI).
+    - Gráfica representativa de casos/dia.
+    - Gráfico con tests realizados diarios.
+    - Casos confirmados/casos recuperados durante los meses.
+- reporte de síntomas
+- consulta por telemedicina
+- alertas de exposición
+- Agendarse para las vacunaciones
+- Acceso a tu certificado de vacunación
+- Pedir declaración jurada de salud del viajero para entrar en Uruguay
+
+Es importante aclarar que tanto el reporte de síntomas como la consulta por telemedicina se realizan a tu prestador de salud, la app solo funciona como un puente de fácil acceso entre ambos. Además las alertas de exposición pueden ser desactivadas en caso de ser deseado y son de ámbito anónimo. Esto significa que la app te informará si estuviste en contacto con alguien que dió positivo por covid, pero no te dirá con quién o en donde ocurrió.
+
+El servidor de alertas de exposición es una adaptación de la implementación del [Exposure Notification Server](https://github.com/google/exposure-notifications-server) creado por google.
+
+Además de la app ser bastante explicativa por sí misma con botones claros y descriptivos, existe un [pdf](https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/2020-06/disen%CC%83o%20gacetilla%20coronavirus%202%20copia_0.pdf) a modo de guía explicando el funcionamiento y los usos de ella.
+
 ### Anexo
 #### Bitacora 
 
