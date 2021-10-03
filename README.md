@@ -213,6 +213,20 @@ El servidor de alertas de exposición es una adaptación de la implementación d
 
 Además de la app ser bastante explicativa por sí misma con botones claros y descriptivos, existe un [pdf](https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/2020-06/disen%CC%83o%20gacetilla%20coronavirus%202%20copia_0.pdf) a modo de guía explicando el funcionamiento y los usos de ella.
 
+#### Valoración de competidores:
+
+| Funcionalidad | CoronavirusUy | COVID19-MX | CoronaMadrid|
+|---------------|---------------|------------|-------------|
+|Consulta por Telemedicina | 3 | 2 | 5 |
+| Reporte de síntomas | 5 | 4 | 2 |
+|Alertas de exposición | 4 | 0 | 1 |
+| Agenda para vacunaciones | 5 | 3 | 0 |
+| Claridad del diseño y navegabilidad | 5 | 3 | 4 |
+| Guía de facil acceso | 5 | 0 | 4 |
+|Información acerca del estado actual del pais | 3 | 4 | 2 |
+| Funcionalidad multi-usuario | 5 | 5 | 5 |
+
+
 ### Anexo
 #### Bitacora 
 
@@ -270,16 +284,3 @@ En conjunto con el Scrum master realizar la valoración de competidores y comenz
 ¿Qué dificultades tienes?
 Encontrar información ya que las apps no poseen grandes archivos de documentación o informativo. Esto debido a la urgencia con la que fueron hechas.
 
-
-#### Valoración de competidores:
-
-| Funcionalidad | CoronavirusUy | COVID19-MX | CoronaMadrid|
-|---------------|---------------|------------|-------------|
-|Consulta por Telemedicina | 3 | 2 | 5 |
-| Reporte de síntomas | 5 | 4 | 2 |
-|Alertas de exposición | 4 | 0 | 1 |
-| Agenda para vacunaciones | 5 | 3 | 0 |
-| Claridad del diseño y navegabilidad | 5 | 3 | 4 |
-| Guía de facil acceso | 5 | 0 | 4 |
-|Información acerca del estado actual del pais | 3 | 4 | 2 |
-| Funcionalidad multi-usuario | 5 | 5 | 5 |
