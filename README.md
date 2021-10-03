@@ -121,7 +121,7 @@ Son todos los prestadores de salud. Estos intentan asegurar el bienestar de sus 
 
 Tanto públicos como privados tienen el objetivo de minimizar el tiempo de espera ante un resultado manteniendo una alta tasa de eficacia. Son responsables de informar la cantidad de casos positivos que se dieron por día.
 
-#### IDENTIFICACIÓN DE FUNCIONALIDADES
+#### Identificación de Funcionalidades
 
 De la identificación de Stakeholders identificamos las siguiente funcionalidades por stakeholder:
 
