@@ -272,53 +272,53 @@ Además de la app ser bastante explicativa por sí misma con botones claros y de
 ###### Daily scrum 
 
 - Iñaki Etchegaray
-¿Qué hiciste ayer?
+<ins>¿Qué hiciste ayer?</ins>
 Prepare los aspectos generales del proyecto como las herramientas a utilizar y el sprint planning.
-¿Qué vas a hacer hoy?
+<ins>¿Qué vas a hacer hoy?</ins>
 La identificación de stakeholders del proyecto. A su vez, también arreglar el sprint planning sacandole el definition of done que no es requisito.
-¿Qué dificultades tienes?
+¿Qué dificultades tienes?</ins>
 Tener completamente en claro que stakeholders pueden haber del proyecto. Entender completamente mi rol como Product Owner.
 
 - Gaston Landeira
-¿Qué hiciste ayer?
+<ins>¿Qué hiciste ayer?</ins>
 Realice el estudio de competidores de dos aplicaciones. COVID-19MX y CoronaMadrid.
-¿Qué vas a hacer hoy?
+<ins>¿Qué vas a hacer hoy?</ins>
 Realizaré el taskboard y continuaré con el estudio de competidores. Además para honrar mi posición de scrum master, documentare el daily scrum de hoy.
-¿Qué dificultades tienes?
+<ins>¿Qué dificultades tienes?</ins>
 Distinguir la diferencia entre sprint backlog y product backlog.
 
 - Matías González
-¿Qué hiciste ayer?
+<ins>¿Qué hiciste ayer?</ins>
 Ayudar al Scrum master en el desarrollo del scrum planning.
-¿Qué vas a hacer hoy?
+<ins>¿Qué vas a hacer hoy?</ins>
 Estudio de competidores, particularmente el caso de la app CoronavirusUy
-¿Qué dificultades tienes?
+<ins>¿Qué dificultades tienes?</ins>
 Conseguir distintas fuentes al respecto de la app CoronavirusUy y sus funcionalidades
 
 ##### Día 3
 ###### Daily scrum 
 - Iñaki Etchegaray
-¿Qué hiciste ayer?
+<ins>¿Qué hiciste ayer?</ins>
 Identifique los stakeholders del proyecto. Y arreglos en la documentación.
-¿Qué vas a hacer hoy?
+<ins>¿Qué vas a hacer hoy?</ins>
 La identificación de funcionalidades por interesado.
-¿Qué dificultades tienes?
+<ins>¿Qué dificultades tienes?</ins>
 No logro poder llevar a cabo el rol de Product Owner de manera independiente. Es decir, mi rol lo estamos llevando a cabo entre muchos y no me siento el especialista en ello.
 
 - Gaston Landeira
-¿Qué hiciste ayer?
+<ins>¿Qué hiciste ayer?</ins>
 Realice la identificación de stakeholders
-¿Qué vas a hacer hoy?
+<ins>¿Qué vas a hacer hoy?</ins>
 Realizaré la valoración de estudio de competidores y creare user cases. Finalizando con sprint review y retrospective.
-¿Qué dificultades tienes?
+<ins>¿Qué dificultades tienes?</ins>
 Documentar las prácticas de scrum realizadas, se dejarán en un anexo más abajo.
 
 
 - Matías González
-¿Qué hiciste ayer?
+<ins>¿Qué hiciste ayer?</ins>
 Estudio de competidores, particularmente el caso de la app CoronavirusUy
-¿Qué vas a hacer hoy?
+<ins>¿Qué vas a hacer hoy?</ins>
 En conjunto con el Scrum master realizar la valoración de competidores y comenzar los user cases. Luego realizar sprint review y retrospective
-¿Qué dificultades tienes?
+<ins>¿Qué dificultades tienes?</ins>
 Encontrar información ya que las apps no poseen grandes archivos de documentación o informativo. Esto debido a la urgencia con la que fueron hechas.
 
