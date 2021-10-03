@@ -45,9 +45,7 @@ Las primeras dos herramientas definidas fueron:
 
 En Toggl Track cada miembro del Scrum Team debe activar el contador sobre el proyecto llamado “Mini-Proyecto Ágil” cuando estemos trabajando. Este primer día de planificación no fue monitoreado (2 horas todos).
 
-En Trello tenemos un Kanban board:
-
-Donde iremos monitoreando cada iteración.
+En Trello tenemos un Task board donde iremos monitoreando cada iteración.
 
 ## Iteracion 1 
 
