@@ -4,12 +4,9 @@
 ### ROLES:
 
 <ins>Integrantes:</ins>
-<ul>
-    <li>Gaston </li>
-    <li>Matias</li>
-    <li>Iñaki</li>
-</ul>
-
+- Gaston
+- Matias
+- Iñaki
 
 <ins>Roles:</ins>
 Definimos los roles a base de preferencia.
@@ -19,21 +16,15 @@ Gaston no podia mas sin ser el CUM Master.
 Matias no tuvo preferencia.
 
 <ins>Los Roles quedaron:</ins>
-<ul>
-    <li>Scrum Master: Gaston </li>
-    <li>Product Owner: Iñaki</li>
-    <li>Developer: Matias</li>
-</ul>
-
+- Scrum Master: Gaston
+- Product Owner: Iñaki
+- Developer: Matias
 
 ### Primer Marco de Trabajo:
 Para el trabajo vamos a seguir las guías de Scrum (https://scrumguides.org/scrum-guide.html
 ), aunque no en su absoluta pureza:
-<ul>
-    <li>Para cada iteración planeamos entregar documentos, no necesariamente ejecutables.</li>
-    <li>Los Daily Scrums se harán en los días en que el grupo se junta a trabajar. Esto se debe a que no se trabajara todos los días de la semana en equipo ya que cada uno tiene sus tiempos y responsabilidades en estos tiempos de emergencia sanitaria. Exceptuando los primeros días de sprint porque se desarrollará el sprint planning.</li>
-</ul>
-
+- Para cada iteración planeamos entregar documentos, no necesariamente ejecutables.
+- Los Daily Scrums se harán en los días en que el grupo se junta a trabajar. Esto se debe a que no se trabajara todos los días de la semana en equipo ya que cada uno tiene sus tiempos y responsabilidades en estos tiempos de emergencia sanitaria. Exceptuando los primeros días de sprint porque se desarrollará el sprint planning.
 
 Fuera de estas excepciones, planeamos trabajar con el formato clásico de Scrum, iniciando un Sprint de 2 semanas de duración con un Sprint Planning, seguidas de Daily Scrum y concluyendo con un Sprint Review y Retrospective.
 
@@ -47,12 +38,10 @@ Antes de entregar la iteración, hacemos un sprint retrospective donde re-defini
 
 ### Herramientas:
 Las primeras dos herramientas definidas fueron:
-<ul>
-    <li>Para división de tareas: Trello</li>
-    <li>Para llevar cuenta del tiempo trabajado: Toggl Track</li>
-    <li>Documentación: Markdown</li>
-    <li>Versionado: GitHub y GitHub Desktop.</li>
-</ul>
+- Para división de tareas: Trello
+- Para llevar cuenta del tiempo trabajado: Toggl Track
+- Documentación: Markdown
+- Versionado: GitHub y GitHub Desktop
 
 En Toggl Track cada miembro del Scrum Team debe activar el contador sobre el proyecto llamado “Mini-Proyecto Ágil” cuando estemos trabajando. Este primer día de planificación no fue monitoreado (2 horas todos).
 
@@ -68,14 +57,13 @@ Donde iremos monitoreando cada iteración.
 Este primer sprint habilita a las demás iteraciones mediante la planificación del proyecto. En este primer sprint, buscaremos determinar el Product Backlog del producto mediante el listado de posibles funcionalidades logrado por la identificación de stakeholders y el estudio de competidores.
 
 ##### Que hay que hacer:
-<ul>
-    <li>Identificación de interesados</li>
-    <li>Lista de funcionalidades por interesado </li>
-    <li>Estudio de competidores.</li>
-    <li>Historias de usuario (BDD)</li>
-    <li>Criterios de aceptación</li>
-    <li>Product backlog</li>
-</ul>
+
+- Identificación de interesados
+- Lista de funcionalidades por interesado
+- Estudio de competidores
+- Historias de usuario (BDD)
+- Criterios de aceptación
+- Product backlog
 
 ##### Cómo lo haremos:
 ###### 1er semana
@@ -100,21 +88,15 @@ Una identificación clara del problema acompañado de un product backlog que def
 
 La naturaleza de la aplicación nos permite identificar los siguientes stakeholders:
 
-<ul>
-    <li>Adolescentes y Adultos Jóvenes entre 13 - 35 años.</li>
-</ul>
+- Adolescentes y Adultos Jóvenes entre 13 - 35 años
 
 Son la gente activa de la población más propensa a las actividades sociales. Su interés se encuentra en balancear entre poder realizar actividades sociales y asegurar la seguridad de él mismo y sus allegados. Son gente que están acostumbrados a manejar la tecnología y las aplicaciones móviles. Alta cantidad de gente.
 
-<ul>
-    <li>Adultos entre 35 - 60 años</li>
-</ul>
+- Adultos entre 35 - 60 años
 
 Son gente activa que es un poco menos propensa a las actividades sociales fuera de las familiares. Son la población que hay más probabilidades de que estén instauradas con una familia en el Uruguay. Su interés se encuentra en asegurarse que su núcleo familiar esté protegido e informado de la situación de la pandemia. El manejo de la tecnología sigue siendo bueno, pero varía fuertemente por cuartil del grupo. Alta cantidad de gente.
 
-<ul>
-    <li>Adultos mayores de 60 años</li>
-</ul>
+- Adultos mayores de 60 años
 
 Son gente no muy activa, pero que son población de riesgo. Su interés se encuentra en estar informados sobre la situación sanitaria y minimizar lo más posible el riesgo de contagio (ya que son población de riesgo). Quieren poder ver a sus familias con la conciencia limpia de que tanto ellos como su núcleo familiar están a salvo de la enfermedad. Suelen tener un mal manejo de la tecnología y no estar muy acostumbrados a las aplicaciones móviles. Como Uruguay es un país que se reconoce por tener una población mayor, hay una alta cantidad de este stakeholder en comparación con otros países.
 
@@ -127,21 +109,15 @@ Como muestra el censo, aproximadamente el 80% de la población uruguaya comprend
 
 Estos tres stakeholders también son fuertes candidatos a ser la fuente de información sobre los casos de contagio, ya que la población es tan numerosa, se requiere de un esfuerzo comunitario para poder tener toda la información posible sobre casos de contagio. Además, los usuarios estarían interesados a compartir su información siempre y cuando se respete la privacidad de la misma. Es de su interés poder acceder a su carnet de vacunación, un documento validado por el gobierno que afirma que la persona está efectivamente vacunada.
 
-<ul>
-    <li>Gobierno Uruguayo</li>
-</ul>
+- Gobierno Uruguayo
 
 La aplicación es de un alto interés para el gobierno uruguayo ya que asiste con su interés principal de mantener sanitariamente al país con la acción de informar al pueblo uruguayo. Sería un agente importante en la recolección y aprobación de la información requerida para que funcione la aplicación.
 
-<ul>
-    <li>Sociedades médicas</li>
-</ul>
+- Sociedades médicas
 
 Son todos los prestadores de salud. Estos intentan asegurar el bienestar de sus pacientes frente al peligro provocado por la contracción del virus COVID-19. Estas sociedades presentan mucha inquietud ante los incrementos de casos exponenciales y desean minimizar la curva de contagio para no sobresaturar sus camas de CTI y poder atender a todos sus afiliados. Al ser aquellos que se encuentran en el frente combatiendo la enfermedad, son los candidatos principales a otorgar la primera información sobre los casos activos de COVID-19.
 
-<ul>
-    <li>Laboratorios de test de COVID-19</li>
-</ul>
+- Laboratorios de test de COVID-19
 
 Tanto públicos como privados tienen el objetivo de minimizar el tiempo de espera ante un resultado manteniendo una alta tasa de eficacia. Son responsables de informar la cantidad de casos positivos que se dieron por día.
 
@@ -295,7 +271,7 @@ Además de la app ser bastante explicativa por sí misma con botones claros y de
 ##### Día 2
 ###### Daily scrum 
 
--Iñaki Etchegaray
+- Iñaki Etchegaray
 ¿Qué hiciste ayer?
 Prepare los aspectos generales del proyecto como las herramientas a utilizar y el sprint planning.
 ¿Qué vas a hacer hoy?
@@ -303,7 +279,7 @@ La identificación de stakeholders del proyecto. A su vez, también arreglar el 
 ¿Qué dificultades tienes?
 Tener completamente en claro que stakeholders pueden haber del proyecto. Entender completamente mi rol como Product Owner.
 
--Gaston Landeira
+- Gaston Landeira
 ¿Qué hiciste ayer?
 Realice el estudio de competidores de dos aplicaciones. COVID-19MX y CoronaMadrid.
 ¿Qué vas a hacer hoy?
@@ -311,7 +287,7 @@ Realizaré el taskboard y continuaré con el estudio de competidores. Además pa
 ¿Qué dificultades tienes?
 Distinguir la diferencia entre sprint backlog y product backlog.
 
--Matías González
+- Matías González
 ¿Qué hiciste ayer?
 Ayudar al Scrum master en el desarrollo del scrum planning.
 ¿Qué vas a hacer hoy?
@@ -321,7 +297,7 @@ Conseguir distintas fuentes al respecto de la app CoronavirusUy y sus funcionali
 
 ##### Día 3
 ###### Daily scrum 
--Iñaki Etchegaray
+- Iñaki Etchegaray
 ¿Qué hiciste ayer?
 Identifique los stakeholders del proyecto. Y arreglos en la documentación.
 ¿Qué vas a hacer hoy?
@@ -329,7 +305,7 @@ La identificación de funcionalidades por interesado.
 ¿Qué dificultades tienes?
 No logro poder llevar a cabo el rol de Product Owner de manera independiente. Es decir, mi rol lo estamos llevando a cabo entre muchos y no me siento el especialista en ello.
 
--Gaston Landeira
+- Gaston Landeira
 ¿Qué hiciste ayer?
 Realice la identificación de stakeholders
 ¿Qué vas a hacer hoy?
@@ -338,7 +314,7 @@ Realizaré la valoración de estudio de competidores y creare user cases. Finali
 Documentar las prácticas de scrum realizadas, se dejarán en un anexo más abajo.
 
 
--Matías González
+- Matías González
 ¿Qué hiciste ayer?
 Estudio de competidores, particularmente el caso de la app CoronavirusUy
 ¿Qué vas a hacer hoy?
