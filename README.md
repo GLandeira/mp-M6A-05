@@ -12,7 +12,7 @@
 Definimos los roles a base de preferencia.
 
 Iñaki se ofrecio a ser el Product Owner.
-Gaston no podia mas sin ser el CUM Master.
+Gaston quiso ser el Scrum Master.
 Matias no tuvo preferencia.
 
 <ins>Los Roles quedaron:</ins>
