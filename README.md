@@ -361,36 +361,39 @@ Como gobierno uruguayo
 quiero que la población pueda acceder a un usuario con su cédula de identidad
 para poder hacer el seguimiento de la información del usuario mas facilmente
 
-
 #### Priorizacion de User Stories
 
 Para priorizar las User Stories decidimos categorizarlas en prioridades alta a baja. Decidimos hacer esto porque para las funcionalidades son dificiles de comparar en terminos de importancia. Nos parecia que tenia mas sentido manejar una escala relativa asi son mas faciles de manejar.
 
 ##### Prioridad Alta
 HU1: Reporte de síntomas
-HU2: quiero poder visualizar la cantidad de casos totales y por dia de COVID-19
-HU4: quiero poder agendar mi vacunación a cierto horario en algún centro de vacunación en específico
-HU7: quiero poder conocer si estuve cercano a un caso positivo
-HU5: quiero poder conocer la cantidad de vacunados (por dia y totales) 
-HU12: quiero un diseño sencillo y accesible
-HU16: quiero que la aplicación sea accesible para móviles
-HU17: quiero poder manejar la privacidad sobre mis datos
-HU18: quiero que la aplicación pueda soportar a toda la población
+HU2: Cantidad de casos 
+HU4: Agenda de vacunación
+HU7: Alerta de exposición
+HU5: Cantidad de vacunados
+HU12: Accesibilidad
+HU16: Compatibilidad con móviles
+HU17: Privacidad y seguridad
+HU18: Soporte escala nacional
 
-MEDIA
-6: quiero poder agendar hisopados desde la aplicación
-19: quiero que la población pueda acceder a un usuario con su cédula de identidad
-10: quiero poder tener acceso a mi registro de vacunación
-9: quiero poder registrar varios usuarios usando un mismo teléfono
-11: quiero una guia con instrucciones sencillas
-14: quiero que mis pacientes sepan la disponibilidad de camas de CTI de los distintos locales
+##### Prioridad Media
+HU6: Agenda de hisopado
+HU19: Acceso mediante C.I
+HU10: Registro de vacunación
+HU9: Multi-usuario
+HU11: Guia de uso
+HU14: Disponibilidad CTI
 
-BAJA
-3: quiero poder visualizar la cantidad de casos COVID-19 por departamento
-8: quiero poder brindar mecanismos para tratar la soledad en estos tiempos de pandemia y crear puntos de contacto entre usuarios y psicólogos
-13: quiero un botón de emergencia
-15: quiero que los usuarios tengan rápido acceso a un canal de comunicación
+##### Prioridad Baja
+HU3: Casos por departamento
+HU8: Servicio de compañia
+HU13: Botón de emergencia
+HU15: Consulta de telemedicina
 
+#### Product Backlog
+Finalmente, con las User Stories priorizadas, creamos un nuevo taskboard que contiene al product backlog. Este sera reutilizado en las iteraciones por venir:
+
+![Informacion del censo 2011.](imagenes/Product-Backlog.png "Censo Uruguayo 2011")
 
 ### Anexo
 #### Bitacora 
