@@ -4,36 +4,27 @@
 ### ROLES:
 
 <ins>Integrantes:</ins>
-<ul>
-    <li>Gaston </li>
-    <li>Matias</li>
-    <li>Iñaki</li>
-</ul>
-
+- Gaston
+- Matias
+- Iñaki
 
 <ins>Roles:</ins>
 Definimos los roles a base de preferencia.
 
 Iñaki se ofrecio a ser el Product Owner.
-Gaston no podia mas sin ser el CUM Master.
+Gaston quiso ser el Scrum Master.
 Matias no tuvo preferencia.
 
 <ins>Los Roles quedaron:</ins>
-<ul>
-    <li>Scrum Master: Gaston </li>
-    <li>Product Owner: Iñaki</li>
-    <li>Developer: Matias</li>
-</ul>
-
+- Scrum Master: Gaston
+- Product Owner: Iñaki
+- Developer: Matias
 
 ### Primer Marco de Trabajo:
 Para el trabajo vamos a seguir las guías de Scrum (https://scrumguides.org/scrum-guide.html
 ), aunque no en su absoluta pureza:
-<ul>
-    <li>Para cada iteración planeamos entregar documentos, no necesariamente ejecutables.</li>
-    <li>Los Daily Scrums se harán en los días en que el grupo se junta a trabajar. Esto se debe a que no se trabajara todos los días de la semana en equipo ya que cada uno tiene sus tiempos y responsabilidades en estos tiempos de emergencia sanitaria. Exceptuando los primeros días de sprint porque se desarrollará el sprint planning.</li>
-</ul>
-
+- Para cada iteración planeamos entregar documentos, no necesariamente ejecutables.
+- Los Daily Scrums se harán en los días en que el grupo se junta a trabajar. Esto se debe a que no se trabajara todos los días de la semana en equipo ya que cada uno tiene sus tiempos y responsabilidades en estos tiempos de emergencia sanitaria. Exceptuando los primeros días de sprint porque se desarrollará el sprint planning.
 
 Fuera de estas excepciones, planeamos trabajar con el formato clásico de Scrum, iniciando un Sprint de 2 semanas de duración con un Sprint Planning, seguidas de Daily Scrum y concluyendo con un Sprint Review y Retrospective.
 
@@ -47,18 +38,14 @@ Antes de entregar la iteración, hacemos un sprint retrospective donde re-defini
 
 ### Herramientas:
 Las primeras dos herramientas definidas fueron:
-<ul>
-    <li>Para división de tareas: Trello</li>
-    <li>Para llevar cuenta del tiempo trabajado: Toggl Track</li>
-    <li>Documentación: Markdown</li>
-    <li>Versionado: GitHub y GitHub Desktop.</li>
-</ul>
+- Para división de tareas: Trello
+- Para llevar cuenta del tiempo trabajado: Toggl Track
+- Documentación: Markdown
+- Versionado: GitHub y GitHub Desktop
 
 En Toggl Track cada miembro del Scrum Team debe activar el contador sobre el proyecto llamado “Mini-Proyecto Ágil” cuando estemos trabajando. Este primer día de planificación no fue monitoreado (2 horas todos).
 
-En Trello tenemos un Kanban board:
-
-Donde iremos monitoreando cada iteración.
+En Trello tenemos un Task board donde iremos monitoreando cada iteración.
 
 ## Iteracion 1 
 
@@ -68,14 +55,13 @@ Donde iremos monitoreando cada iteración.
 Este primer sprint habilita a las demás iteraciones mediante la planificación del proyecto. En este primer sprint, buscaremos determinar el Product Backlog del producto mediante el listado de posibles funcionalidades logrado por la identificación de stakeholders y el estudio de competidores.
 
 ##### Que hay que hacer:
-<ul>
-    <li>Identificación de interesados</li>
-    <li>Lista de funcionalidades por interesado </li>
-    <li>Estudio de competidores.</li>
-    <li>Historias de usuario (BDD)</li>
-    <li>Criterios de aceptación</li>
-    <li>Product backlog</li>
-</ul>
+
+- Identificación de interesados
+- Lista de funcionalidades por interesado
+- Estudio de competidores
+- Historias de usuario (BDD)
+- Criterios de aceptación
+- Product backlog
 
 ##### Cómo lo haremos:
 ###### 1er semana
@@ -100,21 +86,15 @@ Una identificación clara del problema acompañado de un product backlog que def
 
 La naturaleza de la aplicación nos permite identificar los siguientes stakeholders:
 
-<ul>
-    <li>Adolescentes y Adultos Jóvenes entre 13 - 35 años.</li>
-</ul>
+- Adolescentes y Adultos Jóvenes entre 13 - 35 años
 
 Son la gente activa de la población más propensa a las actividades sociales. Su interés se encuentra en balancear entre poder realizar actividades sociales y asegurar la seguridad de él mismo y sus allegados. Son gente que están acostumbrados a manejar la tecnología y las aplicaciones móviles. Alta cantidad de gente.
 
-<ul>
-    <li>Adultos entre 35 - 60 años</li>
-</ul>
+- Adultos entre 35 - 60 años
 
 Son gente activa que es un poco menos propensa a las actividades sociales fuera de las familiares. Son la población que hay más probabilidades de que estén instauradas con una familia en el Uruguay. Su interés se encuentra en asegurarse que su núcleo familiar esté protegido e informado de la situación de la pandemia. El manejo de la tecnología sigue siendo bueno, pero varía fuertemente por cuartil del grupo. Alta cantidad de gente.
 
-<ul>
-    <li>Adultos mayores de 60 años</li>
-</ul>
+- Adultos mayores de 60 años
 
 Son gente no muy activa, pero que son población de riesgo. Su interés se encuentra en estar informados sobre la situación sanitaria y minimizar lo más posible el riesgo de contagio (ya que son población de riesgo). Quieren poder ver a sus familias con la conciencia limpia de que tanto ellos como su núcleo familiar están a salvo de la enfermedad. Suelen tener un mal manejo de la tecnología y no estar muy acostumbrados a las aplicaciones móviles. Como Uruguay es un país que se reconoce por tener una población mayor, hay una alta cantidad de este stakeholder en comparación con otros países.
 
@@ -127,23 +107,79 @@ Como muestra el censo, aproximadamente el 80% de la población uruguaya comprend
 
 Estos tres stakeholders también son fuertes candidatos a ser la fuente de información sobre los casos de contagio, ya que la población es tan numerosa, se requiere de un esfuerzo comunitario para poder tener toda la información posible sobre casos de contagio. Además, los usuarios estarían interesados a compartir su información siempre y cuando se respete la privacidad de la misma. Es de su interés poder acceder a su carnet de vacunación, un documento validado por el gobierno que afirma que la persona está efectivamente vacunada.
 
-<ul>
-    <li>Gobierno Uruguayo</li>
-</ul>
+- Gobierno Uruguayo
 
 La aplicación es de un alto interés para el gobierno uruguayo ya que asiste con su interés principal de mantener sanitariamente al país con la acción de informar al pueblo uruguayo. Sería un agente importante en la recolección y aprobación de la información requerida para que funcione la aplicación.
 
-<ul>
-    <li>Sociedades médicas</li>
-</ul>
+- Sociedades médicas
 
 Son todos los prestadores de salud. Estos intentan asegurar el bienestar de sus pacientes frente al peligro provocado por la contracción del virus COVID-19. Estas sociedades presentan mucha inquietud ante los incrementos de casos exponenciales y desean minimizar la curva de contagio para no sobresaturar sus camas de CTI y poder atender a todos sus afiliados. Al ser aquellos que se encuentran en el frente combatiendo la enfermedad, son los candidatos principales a otorgar la primera información sobre los casos activos de COVID-19.
 
-<ul>
-    <li>Laboratorios de test de COVID-19</li>
-</ul>
+- Laboratorios de test de COVID-19
 
 Tanto públicos como privados tienen el objetivo de minimizar el tiempo de espera ante un resultado manteniendo una alta tasa de eficacia. Son responsables de informar la cantidad de casos positivos que se dieron por día.
+
+#### Identificación de Funcionalidades
+
+De la identificación de Stakeholders identificamos las siguiente funcionalidades por stakeholder:
+
+Un punto importante encontrado en la identificación de stakeholders fue que gran parte de los usuarios buscan información relevante a la situación sanitaria en busca de sentirse que ellos y sus familias están seguros. Por lo tanto identificamos que la aplicación debe:
+
+- Otorgar información sobre el estado de los casos de la enfermedad:
+    - Cantidad de casos activos en el Uruguay.
+        - En el dia.
+        - Totales.
+    - Índices y estadísticos relevantes a estos (índice Harvard).
+    - Cantidad de tests realizados.
+        - En el dia.
+        - Totales.
+    - Cantidad de tests positivos en el dia.
+    - Cantidad de dosis de vacunas otorgadas.
+        - En el dia.
+        - Totales.
+    - Localización de los centros de vacunación conocidos.
+        - Y la cantidad de dosis que poseen
+- Esta información debe ser relevante geográficamente, como nuestro público objetivo es el pueblo uruguayo, solo interesa otorgar la información anterior en Uruguay. Pero además, segmentar esta información para todos los departamentos del país.
+    - Debe de poder darnos un heatmap del país que nos indica la situación en cada departamento.
+- Poder saber si hubo contacto con un positivo o si un usuario estuvo cerca de un positivo.
+    - Para poder saber esto, es necesario poder trackear al usuario geográficamente.
+    - Esto último puede ir en contra de otra funcionalidad identificada más adelante.
+- Otorgar información sobre posibles síntomas de la enfermedad, que significan estos en términos de probabilidad de contagios y qué hacer si se identifica alguna de estas. Además, sería necesario dar la posibilidad de agendar un hisopado en la aplicación.
+- Otorgar información sobre atención psicológica, ya que se ha estado hablando mucho de la pandemia psicológica que vino con la situación sanitaria.
+    - Puntos de contacto con expertos en psicología.
+    - Mecanismos para tratar la soledad en estos tiempos de pandemia.
+- En relación con lo anterior, debería de también ser posible agendar la vacunación de uno mismo para cierto horario en cierta agencia.
+- Otorgar la posibilidad de registrar varias personas por teléfono (multiusuario), ya que en un núcleo familiar lo más normal es que uno sea el conocedor tecnológico, y este lo haría para toda su familia.
+
+Para poder otorgar las funcionalidades anteriores, y dado que el público objetivo es masivo (al menos 2.7 millones de personas), es necesario otorgar una infraestructura de recolección de información escalable:
+- La aplicación debe de tener acceso a la base de datos de COVID del Uruguay. A medida que se agregue información, esta se debe reflejar en la aplicación.
+- Los usuarios deben de poder alimentar información al sistema, como por ejemplo el hecho de que un usuario haya estado en contacto con un positivo.
+- Debe ser accesible por una cantidad de dispositivos masivos. Los dispositivos móviles son los más masivos del mercado hoy en día, por lo cual debería de ser una aplicación móvil por lo menos.
+
+Para los usuarios más jóvenes es de suma importancia poder mantener movimiento en sus vidas. Para ello, la información otorgada les sirve para poder manejarse de manera segura, pero además es de su interes que ellos puedan comprobar su sanidad a empresas (e.g: empresas hoteleras, empresas de fiestas) las cuales desean mantener la sanidad en sus establecimientos:
+- La aplicación debe de poder emitir documentos oficiales gubernamentales que comprueben que alguien se encuentra vacunado.
+
+La aplicación es de distribución masiva, esto significa que los usuarios mayores también van a tener mano en la aplicación, los cuales identificamos que no necesariamente tienen buen manejo de la tecnología, por lo que:
+- Es necesario que la aplicación sea fácil e intuitiva de utilizar para toda la población.
+- Por encima de esto, se debe otorgar una guía de uso o un tutorial que sea fácil de entender, concisa y efectiva.
+- Fuera de la guía, debe de haber un punto de acceso a todas las guías y tutoriales, los cuales otorgan aún más información para los interesados.
+
+Vivimos en una época en la cual la seguridad de la información es vital para los usuarios, por lo tanto:
+- Es necesario mantener un nivel básico de seguridad informática, encriptados y demás.
+- Se debe mantener la privacidad de la información del usuario.
+- En caso de publicar información del usuario, se debe pedir el consenso al mismo antes de llevar a cabo la publicación.
+El usuario debe de poder editar qué información desea compartir. E.g: Localización geográfica.
+
+Como ya mencionamos, cerca de 3 millones de usuarios van a utilizar la aplicación, por lo cual:
+- La infraestructura de base de datos de la misma debe de poder ser rápida y efectiva incluso para cantidades masivas de información.
+- La eficiencia de los mecanismos de redes no debe de bajar a pesar de la cantidad de usuarios activos.
+
+Para las sociedades médicas, es de especial interés que la aplicación acerque a los pacientes a acceder sus servicios por lo que:
+- La aplicación debe de otorgar puntos de contacto con sociedades médicas del país.
+    - Por ejemplo, un botón de emergencia que notifica a cierta sociedad médica del país.
+- La aplicación debe de poder recomendar centros de salud cercanos al usuario en caso de que los usuarios no se encuentren en un buen estado por el COVID.
+- La aplicación debe de poder otorgar información sobre la cantidad de camas disponibles de CTI.
+
 
 #### Estudio de competidores:
 <ul>
@@ -233,54 +269,54 @@ Además de la app ser bastante explicativa por sí misma con botones claros y de
 ##### Día 2
 ###### Daily scrum 
 
--Iñaki Etchegaray
-¿Qué hiciste ayer?
+- Iñaki Etchegaray
+<ins>¿Qué hiciste ayer?</ins>
 Prepare los aspectos generales del proyecto como las herramientas a utilizar y el sprint planning.
-¿Qué vas a hacer hoy?
+<ins>¿Qué vas a hacer hoy?</ins>
 La identificación de stakeholders del proyecto. A su vez, también arreglar el sprint planning sacandole el definition of done que no es requisito.
-¿Qué dificultades tienes?
+¿Qué dificultades tienes?</ins>
 Tener completamente en claro que stakeholders pueden haber del proyecto. Entender completamente mi rol como Product Owner.
 
--Gaston Landeira
-¿Qué hiciste ayer?
+- Gaston Landeira
+<ins>¿Qué hiciste ayer?</ins>
 Realice el estudio de competidores de dos aplicaciones. COVID-19MX y CoronaMadrid.
-¿Qué vas a hacer hoy?
+<ins>¿Qué vas a hacer hoy?</ins>
 Realizaré el taskboard y continuaré con el estudio de competidores. Además para honrar mi posición de scrum master, documentare el daily scrum de hoy.
-¿Qué dificultades tienes?
+<ins>¿Qué dificultades tienes?</ins>
 Distinguir la diferencia entre sprint backlog y product backlog.
 
--Matías González
-¿Qué hiciste ayer?
+- Matías González
+<ins>¿Qué hiciste ayer?</ins>
 Ayudar al Scrum master en el desarrollo del scrum planning.
-¿Qué vas a hacer hoy?
+<ins>¿Qué vas a hacer hoy?</ins>
 Estudio de competidores, particularmente el caso de la app CoronavirusUy
-¿Qué dificultades tienes?
+<ins>¿Qué dificultades tienes?</ins>
 Conseguir distintas fuentes al respecto de la app CoronavirusUy y sus funcionalidades
 
 ##### Día 3
 ###### Daily scrum 
--Iñaki Etchegaray
-¿Qué hiciste ayer?
+- Iñaki Etchegaray
+<ins>¿Qué hiciste ayer?</ins>
 Identifique los stakeholders del proyecto. Y arreglos en la documentación.
-¿Qué vas a hacer hoy?
+<ins>¿Qué vas a hacer hoy?</ins>
 La identificación de funcionalidades por interesado.
-¿Qué dificultades tienes?
+<ins>¿Qué dificultades tienes?</ins>
 No logro poder llevar a cabo el rol de Product Owner de manera independiente. Es decir, mi rol lo estamos llevando a cabo entre muchos y no me siento el especialista en ello.
 
--Gaston Landeira
-¿Qué hiciste ayer?
+- Gaston Landeira
+<ins>¿Qué hiciste ayer?</ins>
 Realice la identificación de stakeholders
-¿Qué vas a hacer hoy?
+<ins>¿Qué vas a hacer hoy?</ins>
 Realizaré la valoración de estudio de competidores y creare user cases. Finalizando con sprint review y retrospective.
-¿Qué dificultades tienes?
+<ins>¿Qué dificultades tienes?</ins>
 Documentar las prácticas de scrum realizadas, se dejarán en un anexo más abajo.
 
 
--Matías González
-¿Qué hiciste ayer?
+- Matías González
+<ins>¿Qué hiciste ayer?</ins>
 Estudio de competidores, particularmente el caso de la app CoronavirusUy
-¿Qué vas a hacer hoy?
+<ins>¿Qué vas a hacer hoy?</ins>
 En conjunto con el Scrum master realizar la valoración de competidores y comenzar los user cases. Luego realizar sprint review y retrospective
-¿Qué dificultades tienes?
+<ins>¿Qué dificultades tienes?</ins>
 Encontrar información ya que las apps no poseen grandes archivos de documentación o informativo. Esto debido a la urgencia con la que fueron hechas.
 
