@@ -145,6 +145,68 @@ Son todos los prestadores de salud. Estos intentan asegurar el bienestar de sus 
 
 Tanto públicos como privados tienen el objetivo de minimizar el tiempo de espera ante un resultado manteniendo una alta tasa de eficacia. Son responsables de informar la cantidad de casos positivos que se dieron por día.
 
+#### IDENTIFICACIÓN DE FUNCIONALIDADES
+
+De la identificación de Stakeholders identificamos las siguiente funcionalidades por stakeholder:
+
+Un punto importante encontrado en la identificación de stakeholders fue que gran parte de los usuarios buscan información relevante a la situación sanitaria en busca de sentirse que ellos y sus familias están seguros. Por lo tanto identificamos que la aplicación debe:
+
+- Otorgar información sobre el estado de los casos de la enfermedad:
+    - Cantidad de casos activos en el Uruguay.
+        - En el dia.
+        - Totales.
+    - Índices y estadísticos relevantes a estos (índice Harvard).
+    - Cantidad de tests realizados.
+        - En el dia.
+        - Totales.
+    - Cantidad de tests positivos en el dia.
+    - Cantidad de dosis de vacunas otorgadas.
+        - En el dia.
+        - Totales.
+    - Localización de los centros de vacunación conocidos.
+        - Y la cantidad de dosis que poseen
+- Esta información debe ser relevante geográficamente, como nuestro público objetivo es el pueblo uruguayo, solo interesa otorgar la información anterior en Uruguay. Pero además, segmentar esta información para todos los departamentos del país.
+    - Debe de poder darnos un heatmap del país que nos indica la situación en cada departamento.
+- Poder saber si hubo contacto con un positivo o si un usuario estuvo cerca de un positivo.
+    - Para poder saber esto, es necesario poder trackear al usuario geográficamente.
+    - Esto último puede ir en contra de otra funcionalidad identificada más adelante.
+- Otorgar información sobre posibles síntomas de la enfermedad, que significan estos en términos de probabilidad de contagios y qué hacer si se identifica alguna de estas. Además, sería necesario dar la posibilidad de agendar un hisopado en la aplicación.
+- Otorgar información sobre atención psicológica, ya que se ha estado hablando mucho de la pandemia psicológica que vino con la situación sanitaria.
+    - Puntos de contacto con expertos en psicología.
+    - Mecanismos para tratar la soledad en estos tiempos de pandemia.
+- En relación con lo anterior, debería de también ser posible agendar la vacunación de uno mismo para cierto horario en cierta agencia.
+- Otorgar la posibilidad de registrar varias personas por teléfono (multiusuario), ya que en un núcleo familiar lo más normal es que uno sea el conocedor tecnológico, y este lo haría para toda su familia.
+
+Para poder otorgar las funcionalidades anteriores, y dado que el público objetivo es masivo (al menos 2.7 millones de personas), es necesario otorgar una infraestructura de recolección de información escalable:
+- La aplicación debe de tener acceso a la base de datos de COVID del Uruguay. A medida que se agregue información, esta se debe reflejar en la aplicación.
+- Los usuarios deben de poder alimentar información al sistema, como por ejemplo el hecho de que un usuario haya estado en contacto con un positivo.
+- Debe ser accesible por una cantidad de dispositivos masivos. Los dispositivos móviles son los más masivos del mercado hoy en día, por lo cual debería de ser una aplicación móvil por lo menos.
+
+Para los usuarios más jóvenes es de suma importancia poder mantener movimiento en sus vidas. Para ello, la información otorgada les sirve para poder manejarse de manera segura, pero además es de su interes que ellos puedan comprobar su sanidad a empresas (e.g: empresas hoteleras, empresas de fiestas) las cuales desean mantener la sanidad en sus establecimientos:
+- La aplicación debe de poder emitir documentos oficiales gubernamentales que comprueben que alguien se encuentra vacunado.
+
+La aplicación es de distribución masiva, esto significa que los usuarios mayores también van a tener mano en la aplicación, los cuales identificamos que no necesariamente tienen buen manejo de la tecnología, por lo que:
+- Es necesario que la aplicación sea fácil e intuitiva de utilizar para toda la población.
+- Por encima de esto, se debe otorgar una guía de uso o un tutorial que sea fácil de entender, concisa y efectiva.
+- Fuera de la guía, debe de haber un punto de acceso a todas las guías y tutoriales, los cuales otorgan aún más información para los interesados.
+
+Vivimos en una época en la cual la seguridad de la información es vital para los usuarios, por lo tanto:
+- Es necesario mantener un nivel básico de seguridad informática, encriptados y demás.
+- Se debe mantener la privacidad de la información del usuario.
+- En caso de publicar información del usuario, se debe pedir el consenso al mismo antes de llevar a cabo la publicación.
+El usuario debe de poder editar qué información desea compartir. E.g: Localización geográfica.
+
+Como ya mencionamos, cerca de 3 millones de usuarios van a utilizar la aplicación, por lo cual:
+- La infraestructura de base de datos de la misma debe de poder ser rápida y efectiva incluso para cantidades masivas de información.
+- La eficiencia de los mecanismos de redes no debe de bajar a pesar de la cantidad de usuarios activos.
+
+Para las sociedades médicas, es de especial interés que la aplicación acerque a los pacientes a acceder sus servicios por lo que:
+- La aplicación debe de otorgar puntos de contacto con sociedades médicas del país.
+    - Por ejemplo, un botón de emergencia que notifica a cierta sociedad médica del país.
+- La aplicación debe de poder recomendar centros de salud cercanos al usuario en caso de que los usuarios no se encuentren en un buen estado por el COVID.
+- La aplicación debe de poder otorgar información sobre la cantidad de camas disponibles de CTI.
+
+
 #### Estudio de competidores:
 <ul>
     <li>COVID-19MX</li>
