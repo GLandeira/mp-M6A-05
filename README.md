@@ -243,3 +243,29 @@ Estudio de competidores, particularmente el caso de la app CoronavirusUy
 ¿Qué dificultades tienes?
 Conseguir distintas fuentes al respecto de la app CoronavirusUy y sus funcionalidades
 
+##### Día 3
+###### Daily scrum 
+-Iñaki Etchegaray
+¿Qué hiciste ayer?
+Identifique los stakeholders del proyecto. Y arreglos en la documentación.
+¿Qué vas a hacer hoy?
+La identificación de funcionalidades por interesado.
+¿Qué dificultades tienes?
+No logro poder llevar a cabo el rol de Product Owner de manera independiente. Es decir, mi rol lo estamos llevando a cabo entre muchos y no me siento el especialista en ello.
+
+-Gaston Landeira
+¿Qué hiciste ayer?
+Realice la identificación de stakeholders
+¿Qué vas a hacer hoy?
+Realizaré la valoración de estudio de competidores y creare user cases. Finalizando con sprint review y retrospective.
+¿Qué dificultades tienes?
+Documentar las prácticas de scrum realizadas, se dejarán en un anexo más abajo.
+
+
+-Matías González
+¿Qué hiciste ayer?
+Estudio de competidores, particularmente el caso de la app CoronavirusUy
+¿Qué vas a hacer hoy?
+En conjunto con el Scrum master realizar la valoración de competidores y comenzar los user cases. Luego realizar sprint review y retrospective
+¿Qué dificultades tienes?
+Encontrar información ya que las apps no poseen grandes archivos de documentación o informativo. Esto debido a la urgencia con la que fueron hechas.
