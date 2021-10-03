@@ -262,6 +262,135 @@ Además de la app ser bastante explicativa por sí misma con botones claros y de
 |Información acerca del estado actual del pais | 3 | 4 | 2 |
 | Funcionalidad multi-usuario | 5 | 5 | 5 |
 
+#### User Stories
+
+A base de las funcionalidades identificadas anteriormente, definimos las siguiente User Stories:
+
+###### User Story #1 - Reporte de síntomas
+Como usuario 
+quiero poder reportar mis síntomas 
+para saber si estoy en riesgo de estar padeciendo COVID-19.
+
+###### User Story #2 - Cantidad de casos 
+Como usuario 
+quiero poder visualizar la cantidad de casos totales y por dia de COVID-19
+para conocer la situación de mi país y saber si está empeorando o mejorando.
+
+###### User Story #3 - Casos por departamento
+Como gobierno uruguayo
+quiero poder visualizar la cantidad de casos COVID-19 por departamento
+para tomar decisiones mejor informadas sobre cómo contener al virus y proteger a la población.
+
+###### User Story #4 - Agenda de vacunación
+Como usuario
+quiero poder agendar mi vacunación a cierto horario en algún centro de vacunación en específico
+para poder vacunarme de manera fácil y cómoda.
+
+###### User Story #5 - Cantidad de vacunados
+Como gobierno uruguayo
+quiero poder conocer la cantidad de vacunados (por dia y totales) 
+para poder mostrar el progreso del país frente a la pandemia y poder compararme frente a otros países.
+
+###### User Story #6 - Agenda de hisopado
+Como gobierno uruguayo
+quiero poder agendar hisopados desde la aplicación
+para poder detectar casos lo más tempranamente posible, evitando la expansión del virus y, para llevar un control más preciso de los datos.
+
+###### User Story #7 - Alerta de exposición
+Como usuario
+quiero poder conocer si estuve cercano a un caso positivo
+para rápidamente actuar, no juntarme con familiares y amigos,  y detener la expansión del virus.
+
+###### User Story #8 - Servicio de compañia
+Como gobierno uruguayo
+quiero poder brindar mecanismos para tratar la soledad en estos tiempos de pandemia y crear puntos de contacto entre usuarios y psicólogos
+para que las consecuencias de la pandemia no dejen cicatrices en la población uruguaya.
+
+###### User Story #9 - Multi-usuario
+Como usuario
+quiero poder registrar varios usuarios usando un mismo teléfono
+para ayudar a familiares que no son tan adeptos con la tecnología a poder registrarse y usar la aplicación.
+
+###### User Story #10 - Registro de vacunación
+Como Joven
+quiero poder tener acceso a mi registro de vacunación
+para poder acceder a distintos lugares donde se requiere estar vacunado y así poder mantener mis actividades diarias sin necesidad de aislamiento. 
+
+###### User Story #11 - Guia de uso
+Como Adulto Mayor
+quiero una guia con instrucciones sencillas
+para poder entender y usar la aplicación más fácilmente
+
+###### User Story #12 - Accesibilidad
+Como Adulto Mayor
+quiero un diseño sencillo y accesible
+para poder encontrar fácilmente las distintas funcionalidades de la app y no perderme
+
+###### User Story #13 - Boton de emergencia
+Como Adulto Mayor
+quiero un botón de emergencia
+para poder comunicarme rápidamente con mi emergencia móvil caso de urgencia
+
+###### User Story #14 - disponibilidad CTI
+Como Sociedad Médica
+quiero que mis pacientes sepan la disponibilidad de camas de CTI de los distintos locales
+para que se dirijan a los lugares menos ocupados y evitar congestionamiento
+
+###### User Story #15 - Consulta de telemedicina
+Como Sociedad Médica
+quiero que los usuarios tengan rápido acceso a un canal de comunicación
+para que podamos atenderlos rápidamente en situaciones riesgosas donde el tiempo es de mayor importancia.
+
+###### User Story #16 - Compatibilidad con moviles
+Como gobierno uruguayo
+quiero que la aplicación sea accesible para móviles
+para que toda la población tenga acceso a la aplicación y esté informada en todo momento en todos lados
+
+###### User Story #17 - Privacidad y seguridad
+Como usuario
+quiero poder manejar la privacidad sobre mis datos
+para proteger mi privacidad pero explotar el potencial de la aplicación
+
+###### User Story #18 - Soporte escala nacional
+Como gobierno uruguayo
+quiero que la aplicación pueda soportar a toda la población
+para poder brindar el servicio a todo el pueblo uruguayo
+
+###### User Story #19 - Acceso mediante C.I
+Como gobierno uruguayo
+quiero que la población pueda acceder a un usuario con su cédula de identidad
+para poder hacer el seguimiento de la información del usuario mas facilmente
+
+
+#### Priorizacion de User Stories
+
+Para priorizar las User Stories decidimos categorizarlas en prioridades alta a baja. Decidimos hacer esto porque para las funcionalidades son dificiles de comparar en terminos de importancia. Nos parecia que tenia mas sentido manejar una escala relativa asi son mas faciles de manejar.
+
+##### Prioridad Alta
+HU1: Reporte de síntomas
+HU2: quiero poder visualizar la cantidad de casos totales y por dia de COVID-19
+HU4: quiero poder agendar mi vacunación a cierto horario en algún centro de vacunación en específico
+HU7: quiero poder conocer si estuve cercano a un caso positivo
+HU5: quiero poder conocer la cantidad de vacunados (por dia y totales) 
+HU12: quiero un diseño sencillo y accesible
+HU16: quiero que la aplicación sea accesible para móviles
+HU17: quiero poder manejar la privacidad sobre mis datos
+HU18: quiero que la aplicación pueda soportar a toda la población
+
+MEDIA
+6: quiero poder agendar hisopados desde la aplicación
+19: quiero que la población pueda acceder a un usuario con su cédula de identidad
+10: quiero poder tener acceso a mi registro de vacunación
+9: quiero poder registrar varios usuarios usando un mismo teléfono
+11: quiero una guia con instrucciones sencillas
+14: quiero que mis pacientes sepan la disponibilidad de camas de CTI de los distintos locales
+
+BAJA
+3: quiero poder visualizar la cantidad de casos COVID-19 por departamento
+8: quiero poder brindar mecanismos para tratar la soledad en estos tiempos de pandemia y crear puntos de contacto entre usuarios y psicólogos
+13: quiero un botón de emergencia
+15: quiero que los usuarios tengan rápido acceso a un canal de comunicación
+
 
 ### Anexo
 #### Bitacora 
