@@ -395,6 +395,15 @@ Finalmente, con las User Stories priorizadas, creamos un nuevo taskboard que con
 
 ![Informacion del censo 2011.](imagenes/Product-Backlog.png "Censo Uruguayo 2011")
 
+#### Sprint Review
+Junto con el equipo y el Product Owner, pudimos llegar a una primera gran conclusión: Esta primera iteración no es una iteración normal de Scrum.
+
+Esto se debe a que esta primera iteración se trata de armar el product backlog del proyecto entero, y por lo tanto sólo podemos evaluar la configuración de este.
+
+Pero como aún no hay un producto en sí en el cual estamos iterando, tampoco podemos afirmar de cambios posibles sobre el Product Backlog o si el producto está acercándose al objetivo establecido ya que esos objetivos los establecimos muy recientemente.
+
+Fuera de esto, en una primera instancia consideramos que el Product Backlog y su priorización se lograron respaldado en la identificación de stakeholders y el estudio de competidores. Si esto se logra mantener para las próximas iteraciones, solo el tiempo lo dirá.
+
 ### Anexo
 #### Bitacora 
 
