@@ -452,3 +452,29 @@ En conjunto con el Scrum master realizar la valoración de competidores y comenz
 <ins>¿Qué dificultades tienes?</ins>
 Encontrar información ya que las apps no poseen grandes archivos de documentación o informativo. Esto debido a la urgencia con la que fueron hechas.
 
+##### Día 4
+###### Daily scrum 
+
+- Iñaki Etchegaray
+<ins>¿Qué hiciste ayer?</ins>
+Identifique las funcionalidades por interesado, además asistí en el relevamiento de los User Stories. Finalmente, asistí en el armado del product backlog, priorizando las funcionalidades identificadas.
+<ins>¿Qué vas a hacer hoy?</ins>
+Participaré en los Sprint Review y Retrospective de la primera iteracion. Es de especial importancia que participe en el primero ya que soy el Product Owner. Como también soy parte del Scrum Team, es necesario que participe en el segundo a su vez.
+<ins>¿Qué dificultades tienes?</ins>
+Ninguna.
+
+- Gaston Landeira
+<ins>¿Qué hiciste ayer?</ins>
+Se calificaron las funcionalidades por competidor y se crearon los user story, añadiendo su prioridad.
+<ins>¿Qué vas a hacer hoy?</ins>
+Finalizaremos la iteración 1 con sprint review y retrospective.
+<ins>¿Qué dificultades tienes?</ins>
+Trabajar en github en un mismo archivo al mismo tiempo.
+
+- Matías González
+<ins>¿Qué hiciste ayer?</ins>
+Realizamos la valoración de competidores junto al Scrum master. Luego procedimos asistidos por el product owner a identificar las diferentes user stories que se podían obtener de la misma.
+<ins>¿Qué vas a hacer hoy?</ins>
+Scrum review y retrospective
+<ins>¿Qué dificultades tienes?</ins>
+No se observa ninguna dificultad clara.
