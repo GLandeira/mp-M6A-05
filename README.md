@@ -404,6 +404,21 @@ Pero como aún no hay un producto en sí en el cual estamos iterando, tampoco po
 
 Fuera de esto, en una primera instancia consideramos que el Product Backlog y su priorización se lograron respaldado en la identificación de stakeholders y el estudio de competidores. Si esto se logra mantener para las próximas iteraciones, solo el tiempo lo dirá.
 
+#### Sprint Retrospective
+
+Se realizó una reunión entre los developers y el scrum master para discutir los puntos planteados en el sprint planning. Al ser la primera iteración sólo es posible sacar conclusiones de los objetivos del sprint, el taskboard y la capacidad del sprint.
+
+Con respecto a los objetivos del sprint (Sprint Goal) el equipo se tomó el tiempo de entender bien el problema antes de realizar cualquier tarea, lo que facilitó todo desarrollo posterior de la iteración. El “producto” de esta iteración bien sería el product backlog, el cual se logró obtener dividido por prioridades satisfactoriamente al trabajar en grupo. Igualmente el trabajo en grupo también se especializó en la división de tareas, tanto la identificación de stakeholders como el estudio de competidores se realizaron en paralelo y más tarde se expusieron las ideas para poder crear las User stories. Metodología que seguramente se repita en el futuro.
+
+Un punto a destacar de esta iteración es su diferencia en respecto a otras. Creemos que nos adaptamos relativamente bien a estas diferencias. Pudimos identificar esto en la realización del Sprint Review y en el primer día de trabajo, el cual dedicamos a preparar las herramientas para el resto de la iteración. Un caso no muy feliz de esto, fue al realizar el Sprint Planning. Le dedicamos el tiempo a definir una Definition of Done, esto sería adecuado en cualquier sprint normal, pero en este caso no aplicaba ya que aún no teníamos un product backlog con que trabajar en un primer lugar.
+
+En términos de las herramientas, sentimos que las identificamos bien y cumplen su función adecuadamente. Toggl Track fue especialmente útil ya que nos quitó el trabajo de tener que temporizar cada task de cada integrante. Lo utilizamos muy bien, activandolo cuando fuera necesario y otorgando nombres adecuados a cada pieza de trabajo que nos permitiera relevar, luego, si la estimación de tiempos fue correcta.
+
+En un principio, sin embargo, el manejo no fue adecuado para todas. En especial el taskboard en Trello el cual quedó un poco en desuso al principio. Sin embargo, pudimos retomar su uso de manera adecuada a mitad del proyecto y resultó ser muy útil para lograr mantener un seguimiento de quién hace qué, y planeamos continuar usándolo de esta manera.
+
+La capacidad del Sprint en conjunto con Toggl nos demostró que varias tareas tomaron menos de lo que estimamos pero, esto solo motivo al equipo, así que seguramente sigamos con la técnica de estimar cuánto es el máximo tiempo posible que nos podría llevar una tarea, y usar esto como base (Esto no debería ser más de 20 minutos de los que nos pudiese llevar una tarea, así que se ajustarán los tiempos). Igualmente esas horas que sobraron fueron destinadas a la creación de elementos relacionados al scrum. En total se planearon 30 horas versus las 24:41 que se trabajaron en Toggl, más las 6 horas que se trabajaron el primer día no registradas, se cumplen las 30 horas planeadas. 
+
+
 ### Anexo
 #### Bitacora 
 
