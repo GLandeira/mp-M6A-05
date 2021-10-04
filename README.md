@@ -4,9 +4,9 @@
 ### ROLES:
 
 <ins>Integrantes:</ins>
-- Gaston
-- Matias
-- Iñaki
+- Gaston - 238473
+- Matias - 219329
+- Iñaki  - 241072
 
 <ins>Roles:</ins>
 Definimos los roles a base de preferencia.
@@ -99,7 +99,7 @@ Son gente activa que es un poco menos propensa a las actividades sociales fuera 
 Son gente no muy activa, pero que son población de riesgo. Su interés se encuentra en estar informados sobre la situación sanitaria y minimizar lo más posible el riesgo de contagio (ya que son población de riesgo). Quieren poder ver a sus familias con la conciencia limpia de que tanto ellos como su núcleo familiar están a salvo de la enfermedad. Suelen tener un mal manejo de la tecnología y no estar muy acostumbrados a las aplicaciones móviles. Como Uruguay es un país que se reconoce por tener una población mayor, hay una alta cantidad de este stakeholder en comparación con otros países.
 
 Los tres grupos de stakeholders anteriores presentan una gran parte de la población como muestra la siguiente información:
-![Informacion del censo 2011.](imagenes/Informacion-Censo-2011.png "Censo Uruguayo 2011")
+![Informacion del censo 2011.](imagenes/iteracion1/Informacion-Censo-2011.png "Censo Uruguayo 2011")
 
 (Información del censo Uruguayo del 2011, source: [Instituto Nacional de Estadística](https://www.ine.gub.uy/documents/10181/35289/analisispais.pdf))
 
@@ -393,7 +393,7 @@ HU15: Consulta de telemedicina
 #### Product Backlog
 Finalmente, con las User Stories priorizadas, creamos un nuevo taskboard que contiene al product backlog. Este sera reutilizado en las iteraciones por venir:
 
-![Informacion del censo 2011.](imagenes/Product-Backlog.png "Censo Uruguayo 2011")
+![Informacion del censo 2011.](imagenes/iteracion1/Product-Backlog.png "Censo Uruguayo 2011")
 
 #### Sprint Review
 Junto con el equipo y el Product Owner, pudimos llegar a una primera gran conclusión: Esta primera iteración no es una iteración normal de Scrum.
@@ -418,7 +418,90 @@ En un principio, sin embargo, el manejo no fue adecuado para todas. En especial 
 
 La capacidad del Sprint en conjunto con Toggl nos demostró que varias tareas tomaron menos de lo que estimamos pero, esto solo motivo al equipo, así que seguramente sigamos con la técnica de estimar cuánto es el máximo tiempo posible que nos podría llevar una tarea, y usar esto como base (Esto no debería ser más de 20 minutos de los que nos pudiese llevar una tarea, así que se ajustarán los tiempos). Igualmente esas horas que sobraron fueron destinadas a la creación de elementos relacionados al scrum. En total se planearon 30 horas versus las 24:41 que se trabajaron en Toggl, más las 6 horas que se trabajaron el primer día no registradas, se cumplen las 30 horas planeadas. 
 
+#### Capacidad Real del Sprint
 
+- Planificación Proyecto
+Como mencionamos al principio, aun no utilizabamos toggl como herramienta de registro de horas por lo cual no quedó evidencia directa del tiempo invertido en la planificación. El mismo fue medido con un temporizador comun de telefono y sumó alrededor de 6 horas persona.
+
+- Sprint Planning
+
+![Sprint planning horas](imagenes/Iteracion1/Capacidad-real-sprint/sprintplanning.png "Sprint planning horas")
+
+4:16 horas persona, el SCRUM guide recomienda 8 horas de Sprint Planning para un sprint de 1 mes. Por lo que debería de acercarse a 4 horas.
+
+- Creación de Taskboard Iteracion 1
+
+![Creacion taskboard horas](imagenes/Iteracion1/Capacidad-real-sprint/CreacionTaskboard.png "Creacion taskboard horas")
+
+00:54 horas persona
+
+- Identificación de Stakeholders 
+
+![Identificacion de stakeholders horas](imagenes/Iteracion1/Capacidad-real-sprint/IdentificacionDeStakeholders.png "Identificacion stakeholders horas")
+
+1:59 horas persona. Esta actividad fue planeada en 2 horas.
+
+- Estudio de competidores
+
+![Estudio de competidores horas](imagenes/Iteracion1/Capacidad-real-sprint/EstudioDeCompetidores.png "Estudio de competidores horas")
+
+1:36 horas persona
+
+- Valoración de Competidores
+
+![Valoración de competidores horas](imagenes/Iteracion1/Capacidad-real-sprint/ValoracionDeCompetidores.png "Valoración de competidores horas")
+
+1:43 horas persona. Estas horas sumadas a las del estudio de competidores dan un total de 3:19 horas persona, no tan cercanas a las 4 horas persona previstas para la actividad.)
+
+- Funcionalidades por Stakeholder
+
+![Funcionalidades por stakeholders horas](imagenes/Iteracion1/Capacidad-real-sprint/FuncionalidadesDeStakeholders.png "Funcionalidades por stakeholders horas")
+
+1:43 horas persona. Aca se nota una clara diferencia con las 6 horas planeadas.
+
+- User Stories
+
+![User Stories horas](imagenes/Iteracion1/Capacidad-real-sprint/UserStories.png "User Stories horas")
+
+4:35 horas persona. Tiempo mucho menor a las 9 horas originalmente planeadas. Conjunto con las funcionalidades por stakeholders las dos actividades donde más debemos ajustar el tiempo planeado.
+
+- Product Backlog
+
+![Product Backlog horas](imagenes/Iteracion1/Capacidad-real-sprint/ProductBacklog.png "Product Backlog horas")
+
+2:59 horas persona. Muy cercano a las 3 horas planeadas.
+
+- Daily Scrum Dia 2
+
+Hubo daily Scrum en el segundo día pero no monitoreamos el tiempo.
+
+- Daily Scrum Dia 3
+
+![Daily Scrum 3 horas](imagenes/Iteracion1/Capacidad-real-sprint/DailyScrum3.png "Daily Scrum 3 horas")
+
+00:50 horas persona
+
+- Daily Scrum Dia 4
+
+![Daily Scrum 4 horas](imagenes/Iteracion1/Capacidad-real-sprint/DailyScrum4.png "Daily Scrum 4 horas")
+
+00:24 horas persona
+
+- Sprint Review
+
+![Sprint Review horas](imagenes/Iteracion1/Capacidad-real-sprint/SprintReview.png "Sprint Review horas")
+
+00:32 horas persona
+
+- Sprint Retrospective
+
+![Sprint Retrospective horas](imagenes/Iteracion1/Capacidad-real-sprint/SprintRetrospective.png "Sprint Retrospective horas")
+
+2:30 horas persona
+
+- Horas totales
+
+30 horas persona en total
 ### Anexo
 #### Bitacora 
 
