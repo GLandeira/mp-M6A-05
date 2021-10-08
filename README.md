@@ -60,7 +60,7 @@ Refiere a los documentos generados en formato PDF que incluyen el Estudio de Com
 
 - Imagenes
 
-Refiere a las imagenes tomadas y utilizadas en el README.
+Refiere a las imagenes tomadas y utilizadas en el README, organizadas por iteracion.
 
 - Taskboard Progression
 
