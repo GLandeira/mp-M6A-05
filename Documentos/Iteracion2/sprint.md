@@ -53,3 +53,28 @@ Finalización de la iteración 1.
 Comenzaremos la segunda iteración del proyecto. En una primera instancia definiremos el sprint planning, definition of done, entre otras cosas. Luego asi comenzaremos a definir el taskboard, en que user stories trabajaremos y las tasks de cada una.
 ¿Qué dificultades tienes?
  Ninguna
+
+#### Dia 2
+Iñaki Etchegaray
+¿Qué hiciste ayer
+Participé en el Sprint Planning para la segunda iteración y terminamos de definir aspectos generales del proyecto.
+¿Qué vas a hacer hoy?
+Hoy vamos a empezar a realizar las tareas asignadas e intentando de completarlas. Instalar Balsamiq para empezar a trabajar. Repasar BDD para tener en claro cómo definir los requerimientos.
+¿Qué dificultades tienes?
+Ninguna.
+
+Gaston Landeira
+¿Qué hiciste ayer?
+Se realizó la sprint planning meeting.
+¿Qué vas a hacer hoy?
+Encargaremos a cada integrante a un conjunto de user stories y las realizaremos. (Criterios de aceptación y su prototipo). Además instalaré y aprenderé a usar balsamiq.
+¿Qué dificultades tienes?
+Los requerimientos no funcionales no se me es claro de cómo manejarlos.
+
+Matías González
+¿Qué hiciste ayer?
+Instalar el software para prototipos, en nuestro caso balsamiq. Además, participar del sprint planning realizado para esta segunda iteración.
+¿Qué vas a hacer hoy?
+Comenzar con la realización de las tareas asignadas.
+¿Qué dificultades tienes?
+No se ha presentado ninguna dificultad hasta el momento.
