@@ -77,5 +77,10 @@ Con el propósito de realizar la Planning Meeting se necesitaron especificar cie
 
 Primero se definieron los pasos del proceso de ingeniería: Requerimientos(criterios de aceptación), Prototipado y Review. Los requerimientos consisten en definir los criterios de aceptación de la historia de usuario con sus respectivos escenarios, respetando BDD. El prototipado será realizar un paper prototype en Balsamiq, y finalmente la review se conformará  por ver que se cumplan tanto los objetivos del producto como que sea intuitivo. Se consultará con el product owner si es necesario.
 
-Siguiente se definió utilizar entre un tablero ágil o uno sustentable con los pasos de ingeniería mencionados anteriormente como columnas.  Se decidió por el segundo porque nos parece más claro en qué paso se encuentra la User Story en cada momento del uso del tablero.
+Siguiente se definió utilizar entre un tablero ágil o uno sustentable con los pasos de ingeniería mencionados anteriormente como columnas. Se decidió por el segundo porque nos parece más claro en qué paso se encuentra la User Story en cada momento del uso del tablero.
 Las ceremonias de scrum también entran dentro del tablero como columnas únicas. También entran dentro otras tareas que no pertenecen al proceso de ingeniería, estas cuentan con un color distinto y estarán dentro de una propia columna (antes de estar realizadas). Cada nota tendrá registrada sus horas estimadas y, al terminar cada paso (modificar el taskboard), se agregan las horas reales.
+
+
+
+
+Link al taskboard de Iteracion 2: https://trello.com/b/SIVa3UAo/iteracion-2
