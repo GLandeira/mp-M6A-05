@@ -87,5 +87,13 @@ Además, para simplificar el pdf de sprint planning meeting, se le añadió un .
 - Taskboard Progression
 
 Refiere a los documentos Powerpoint (.ppt) que evidencian la evolucion de los Taskboards  manejados en el tiempo dentro de iteración 2.
+Dentro de la carpeta Taskboard progression/Iteracion 2 se podrán encontrar 3 powerpoints.
+ 
+El primero: "Iteracion 2 - Progresión del Taskboard en Trello" muestra, como dice el título, la progresión conforme íbamos avanzando en la iteración. Se puede ver como tanto las ceremonias como las user stories  avanzan progresivamente a través del tablero hasta su terminación (columna "Done").
+ 
+El segundo documento: "Iteracion 2 - Tasks" muestra tres tareas realizadas durante la iteración. Con sus respectivas horas persona estimadas y horas persona reales respectivamente
+ 
+Por último, el tercer documento: "Iteracion 2 - User Stories" muestra todas las user stories realizadas durante esta iteración. Al haber utilizado un tablero sustentable las mismas cuentan con su esfuerzo estimado y real para cada task(requerimientos, prototipado, review), la narrativa de dicha user story y sus criterios de aceptación.
+
 
 Link al taskboard de iteración 2: https://trello.com/b/SIVa3UAo/iteracion-2
