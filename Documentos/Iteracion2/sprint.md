@@ -27,7 +27,7 @@ Las predicciones de esfuerzo están puestas en cada tarea en el taskboard de Tre
 ### Creación del Taskboard:
 El taskboard de Trello fue creado para la segunda iteración y su estado inicial y progreso se encontrará en un .ptt en el repositorio.
 
-## Daily scrums
+## Regular scrums
 
 #### Dia 1
 Iñaki Etchegaray
@@ -78,3 +78,29 @@ Instalar el software para prototipos, en nuestro caso balsamiq. Además, partici
 Comenzar con la realización de las tareas asignadas.
 ¿Qué dificultades tienes?
 No se ha presentado ninguna dificultad hasta el momento.
+
+#### Dia 3
+
+Iñaki Etchegaray
+¿Qué hiciste ayer?
+Repase los conceptos de BDD, instale Balsamiq y trabaje en los prototipos de las tareas que elegí para esta iteración. Los prototipos fueron terminados con tiempo sobrante.
+¿Qué vas a hacer hoy?
+Hoy vamos a realizar el Sprint Review y la Sprint Retrospective, para terminar con la segunda iteración.
+¿Qué dificultades tienes?
+Ver de llevar a cabo un Sprint Review efectivo. Además, se nos terminó la licencia gratuita de Toggl.
+
+Gaston Landeira
+¿Qué hiciste ayer?
+Finalice las user stories que se me asignaron.
+¿Qué vas a hacer hoy?
+Tendremos las reuniones de sprint review y sprint retrospective, finalizando con la entrega de la segunda iteración.
+¿Qué dificultades tienes?
+Se venció la licencia de Toggl , se hablará con el grupo sobre qué hacer. 
+
+Matías González
+¿Qué hiciste ayer?
+Finalización de las user stories asignadas
+¿Qué vas a hacer hoy?
+	Hoy realizaremos las ceremonias de sprint review y retrospective. Dando fin a esta iteración. Las mismas serán grabadas para la entrega.
+¿Qué dificultades tienes?
+ 	Se venció nuestra cuenta gratuita en la plataforma Toggl utilizada para trackear el tiempo empleado en cada actividad.
