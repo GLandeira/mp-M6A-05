@@ -53,3 +53,29 @@ Comenzar a trabajar en los criterios de aceptación y prototipos de las user sto
 Ser mas eficiente a la hora de realizar los prototipos en balsamiq
 
 #### Dia 3
+
+Iñaki Etchegaray
+¿Qué hiciste ayer?
+Ayer realice los prototipos asignados a mi nombre y realice las reviews de los prototipos que me mostraron los demás developers.
+¿Qué vas a hacer hoy?
+Terminar los prototipos que me quedan, realizar las reviews restantes de los prototipos de los otros developers y finalmente conectar todos los prototipos con links de balsamiq.
+¿Qué dificultades tienes?
+	No se como realizar el linkeo de los prototipos de Balsamiq, tendré que averiguar.
+
+Gaston Landeira
+¿Qué hiciste ayer?
+Aplique los cambios planteados en la sprint review de la iteración pasada a las user stories que se me asignaron. Comencé con las user stories del sprint backlog de esta iteración.
+¿Qué vas a hacer hoy?
+Finalizar las user stories y conectar todos los prototipos.
+¿Qué dificultades tienes?
+Los menús que se comparten entre las user stories serán iguales al conectar los prototipos, esto se discutirá con el grupo.
+
+Matías González
+¿Qué hiciste ayer?
+Realizar los cambios a los prototipos a mi cargo marcados en la sprint review de la iteración anterior y realizar los user stories de Botón de emergencia y Guia de uso
+¿Qué vas a hacer hoy?
+Finalizar la user story de Casos por Departamento. Luego junto con los demás developers trabajar en conectar todos los prototipos en un mismo archivo interactivo
+¿Qué dificultades tienes?
+Balsamiq no tiene una herramienta para colorear imágenes exteriores por lo cual tendre que utilizar paint para modificar ciertas imágenes necesarias para el prototipo.
+
+#### Dia 4
