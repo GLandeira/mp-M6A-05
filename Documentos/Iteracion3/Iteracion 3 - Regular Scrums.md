@@ -79,3 +79,27 @@ Finalizar la user story de Casos por Departamento. Luego junto con los demás de
 Balsamiq no tiene una herramienta para colorear imágenes exteriores por lo cual tendre que utilizar paint para modificar ciertas imágenes necesarias para el prototipo.
 
 #### Dia 4
+
+Iñaki Etchegaray
+¿Qué hiciste ayer?
+Ayer terminé de realizar los prototipos asignados a mi mando. Realice las reviews de los prototipos que quedaban por revisar y realizamos las conexiones de todos los prototipos en un prototipo general que presenta el MVP.
+¿Qué vas a hacer hoy?
+Hoy voy a liderar la Sprint Review, además participaré en la Sprint Retrospective. Finalmente terminaré de documentar la entrega y realizaremos la entrega del incremento.
+¿Qué dificultades tienes?
+	Por el momento, ninguna.
+
+Gaston Landeira
+¿Qué hiciste ayer?
+Se completaron todas las tareas excepto una que especifica el aprendizaje del uso de lean coffee para la sprint retrospective.
+¿Qué vas a hacer hoy?
+Participaré de la sprint review como developer, y de la sprint retrospective como scrum master, donde haré uso de las técnicas de lean coffee.
+¿Qué dificultades tienes?
+Aplicar de una forma correcta, amigable y positiva la técnica de lean coffee en la sprint retrospective.
+
+Matías González
+¿Qué hiciste ayer?
+Se finalizó la user story - Casos por Departamento. Ademas se conectaron todos los prototipos en un solo archivo interactivo el cual permite avanzar de uno al otro como si se estuviese utilizando una app real. 
+¿Qué vas a hacer hoy?
+Hoy realizaremos la Sprint Review y Retrospective, dando asi fin a la 3era iteración de este proyecto.
+¿Qué dificultades tienes?
+Queremos poder aplicar de mejor manera las distintas técnicas de retrospective vistas en el curso.
