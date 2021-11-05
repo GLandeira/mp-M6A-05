@@ -97,3 +97,9 @@ Por último, el tercer documento: "Iteracion 2 - User Stories" muestra todas las
 
 
 Link al taskboard de iteración 2: https://trello.com/b/SIVa3UAo/iteracion-2
+
+#### Iteracion 3
+
+Se repite exactamente el mismo formato de entrega que en la iteración 2, excepto que se agrega un prototipo de toda la app conectada en Balsamiq entre los documentos.
+
+Link al taskboard de iteración 3: https://trello.com/b/HiB7ndHj/iteracion-3
