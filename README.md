@@ -48,7 +48,7 @@ En Trello tenemos un Task board donde iremos monitoreando cada iteración.
 
 ### Orden de las Entregas
 
-#### Iteracion 1
+#### Iteración 1
 En la entrega de la primera iteracion, los archivos fueron ordenados y versionados en un repositorio en GitHub.
 
 Link al Github: https://github.com/GLandeira/mp-M6A-05
@@ -67,7 +67,7 @@ Link al taskboard del Product Backlog: https://trello.com/b/V3M1i0Z8/product-bac
 
 Por ultimo, se puede encontrar este README.
 
-#### Iteracion 2
+#### Iteración 2
 
 Con el propósito de realizar la Planning Meeting se necesitaron especificar ciertos requerimientos antes. Estos parámetros definidos también serán utilizados para el resto de las iteraciones.
  
@@ -97,3 +97,9 @@ Por último, el tercer documento: "Iteracion 2 - User Stories" muestra todas las
 
 
 Link al taskboard de iteración 2: https://trello.com/b/SIVa3UAo/iteracion-2
+
+#### Iteración 3
+
+Se repite exactamente el mismo formato de entrega que en la iteración 2. Se agrega un prototipo de toda la app conectada en Balsamiq entre los documentos y los prototipos con las correcciones planteadas en la sprint review de la iteracion 2 (Archivos con nombre terminados en _Fix), además de los prototipos de la sprint backlog de esta iteración. 
+
+Link al taskboard de iteración 3: https://trello.com/b/HiB7ndHj/iteracion-3
