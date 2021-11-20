@@ -1,0 +1,1 @@
+Durante esta iteración no se realizarán RegularScrums debido a que el equipo se reunirá solo dos veces y estas no aportarían valor.
