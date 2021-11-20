@@ -103,3 +103,21 @@ Link al taskboard de iteración 2: https://trello.com/b/SIVa3UAo/iteracion-2
 Se repite exactamente el mismo formato de entrega que en la iteración 2. Se agrega un prototipo de toda la app conectada en Balsamiq entre los documentos y los prototipos con las correcciones planteadas en la sprint review de la iteracion 2 (Archivos con nombre terminados en _Fix), además de los prototipos de la sprint backlog de esta iteración. 
 
 Link al taskboard de iteración 3: https://trello.com/b/HiB7ndHj/iteracion-3
+
+#### Iteración 4
+Esta cuarta y ultima iteración es una especial ya que el objetivo de la misma es hacer una retrospectiva del proceso y del proyecto en general.
+
+Por lo tanto, en esta iteración no se dispondra de prototipos ni nada por el estilo, sino que solamente de los documentos generados de documentación.
+
+Como siempre, en la carpeta de "Taskboard progression", en "Iteracion4" se puede ver los archivos powerpoint mostrando el progreso de la taskboard y el registro de esfuerzo de todas las tareas.
+
+Luego, en la carpeta de "Documentos", dentro de "Iteracion4" se encuentran los siguientes documentos:
+
+- "Iteracion 4 - Sprint Planning" - Documento que registra las conclusiones y realizacion de una Sprint Planning.
+- "Iteracion 4 - Definition of Done" - Documento que registra la realizacion de una definition of done durante la sprint planning.
+- "Iteracion 4 - Regular Scrums" - Registra el hecho de que no se realizaron Regular Scrums y una justificacion de porque.
+- "Iteracion 4 - Reporte Academico" - Documento que representa el principal producto de la iteracion, contiene las conclusiones sobre el proceso realizado en este proyecto y el link al video solicitado.
+- "Iteracion 4 - Sprint Review" - Documento que registra las conclusiones, el link al video y la realizacion de una Sprint Review.
+- "Iteracion 4 - Sprint Retrospective" - Documento que registra las conclusiones, el link al video y la realizacion de una Sprint Retrospective.
+
+Link al taskboard de iteración 4: https://trello.com/invite/b/Tj08o1nC/b98c232da1ed02d8cd991aa0d872a065/iteracion-4.
